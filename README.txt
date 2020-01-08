@@ -11,3 +11,5 @@ footer has an clickable email address that when clicked creates an email.
 Also, on bottom of the page, images of news sources that are clickable and link to webpages with articles about yoga.
 
 5. On the Contact page, there is a form that uses javascript when the submit button is clicked - the form disappears and a "sent" message appears.
+
+To view website: open welcome.html and navigate the site from there.
